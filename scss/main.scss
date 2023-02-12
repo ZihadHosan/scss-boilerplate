@@ -1,0 +1,32 @@
+/* Abstracts files 
+----------------------------------*/
+@import "abstracts/variables";
+@import "abstracts/mixins";
+@import "abstracts/functions";
+
+/* Base files 
+----------------------------------*/
+@import "base/reset";
+@import "base/typography";
+@import "base/utilities";
+
+/* Components files 
+----------------------------------*/
+@import "components/button";
+@import "components/card";
+@import "components/form";
+
+/* Layout files 
+----------------------------------*/
+@import "layout/header";
+@import "layout/footer";
+
+/* Modules files 
+----------------------------------*/
+@import "modules/header-module";
+@import "modules/footer-module";
+
+/* Vendor files 
+----------------------------------*/
+@import "vendor/bootstrap";
+@import "vendor/materialize";

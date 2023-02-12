@@ -1,0 +1,22 @@
+/* Abstracts files 
+----------------------------------*/
+/* Base files 
+----------------------------------*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 80px;
+}
+
+/* Components files 
+----------------------------------*/
+/* Layout files 
+----------------------------------*/
+/* Modules files 
+----------------------------------*/
+/* Vendor files 
+----------------------------------*//*# sourceMappingURL=main.css.map */

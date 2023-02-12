@@ -1,0 +1,33 @@
+my-project/
+├── scss/
+│   ├── abstracts/
+│   │   ├── _functions.scss
+│   │   ├── _mixins.scss
+│   │   └── _variables.scss
+│   ├── base/
+│   │   ├── _reset.scss
+│   │   ├── _typography.scss
+│   │   └── _utilities.scss
+│   ├── components/
+│   │   ├── _button.scss
+│   │   ├── _card.scss
+│   │   └── _form.scss
+│   ├── layout/
+│   │   ├── _header.scss
+│   │   └── _footer.scss
+│   ├── pages/
+│   │   └── _home.scss
+│   ├── vendor/
+│   │   ├── _bootstrap.scss
+│   │   └── _materialize.scss
+│   ├── modules/
+│   │   ├── _header-module.scss
+│   │   └── _footer-module.scss
+│   └── main.scss
+├── dist/
+│   └── css/
+│       └── style.css
+├── node_modules/
+├── package.json
+├── package-lock.json
+└── index.html
